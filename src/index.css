@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "NotoSansThaiLooped-Medium"; 
+      src:url("./font/NotoSansThaiLooped-Medium.ttf") 
+  }
+.NotoSansThaiLooped-Medium{
+    font-family: NotoSansThaiLooped-Medium;
+}
